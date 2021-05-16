@@ -1,4 +1,4 @@
-package com.example.profile_ui;
+package com.example.browser_ui;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
